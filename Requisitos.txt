@@ -1,0 +1,6 @@
+1.- Crear una base datos
+2.- Crear tabla de 3 a 5 campos (da lo mismo)
+3.- Crear conexion a la base de datos en un archivo PHP
+4.- Crear una funcion que rescate los datos de la base de datos
+5.- En un archivo HTML crear un script que contenga AJAX (AJAX tiene 
+llamar a la funcion rpeviamente creada y los datos rescatados sean mostrados en una tabla en HTML.) 
